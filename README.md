@@ -16,4 +16,4 @@ Uma das opções para realizar o download do projeto é com o Visual Studio Code
 
 Jaqueline Cella
 
-Linkedin-[@jaqueline-cella](https://www.linkedin.com/in/jaqueline-cella-b88bb749/ "Linkedin Jaqueline Cella")
+Linkedin-[@jaqueline-cella](https://www.linkedin.com/in/jaqueline-cella "Linkedin Jaqueline Cella")
